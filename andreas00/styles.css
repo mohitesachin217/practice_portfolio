@@ -36,7 +36,7 @@ p.site-text{
 
 .hero-banner{
     background-image: url('images/front.jpg');
-    height:250px;
+    height:230px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -97,6 +97,8 @@ p.site-text{
     border-left: 5px solid #ccc;
     margin: 5px 0px;
     display: block;
+    color: #505050;
+    font-size: 0.9em;
 }
 
 .menu-li a:hover{
@@ -118,9 +120,10 @@ li a{
     padding: 5px;
 }
 
-.col-3 h1{
-    font-size: 1.1em;
-    color:#505050;
+.col-3 h1 {
+    font-size: 1.2em;
+    color: #505050;
+    margin: 04px;
 }
 
 .col-3 p{
@@ -128,9 +131,10 @@ li a{
     color:#505050;
 }
 
-.col-3 ul{
+.col-3 ul {
     list-style-type: none;
     padding: 0;
+    margin-top: 5px;
 }
 
 .col-3 ul li{

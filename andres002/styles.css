@@ -1,0 +1,162 @@
+body{
+    margin:0;
+    padding:0;
+    background: #ccc;
+}
+
+
+/**
+*
+* header css
+*
+*/
+.warp{
+    width:60%;
+    margin:0 auto;
+    background: #ffffff;
+    padding: 10px;
+}
+   
+.top-header{
+    display: flex;
+    width:100%;
+    align-items: center;
+}
+.site-name{
+    font-size: 2em;
+}
+.column-menu-2{
+    margin-left: auto;
+}
+.hero-image{
+    width:100%;
+}
+
+/*
+* contents
+*/
+
+.left-sidebar{
+    border-right:1px solid #ccc;
+    width:21%;
+}
+.contents{
+    display: flex;
+
+}
+.right-sidebar{
+    border-left:1px solid #ccc;
+    width:200px;
+    width:21%;
+    margin-left: auto;
+    padding:0 5px;
+}
+.sidebar-menu  {
+    list-style-type:none;
+    padding:0;
+    width:200px;
+}
+.sub-sidebar-menu {
+    list-style-type: none;
+    width: 174px;
+    padding: 2px 15px;
+    margin: 0;
+}
+.sidebar-menu li{
+    margin:0px;
+    padding: 2px 10px;
+    line-height:25px
+}
+.sidebar-menu a {
+    text-decoration: none;
+    background-color: #f4f4f4;
+    padding: 2px 10px;
+    display:block;
+    border-left:4px solid #cccccc;
+}
+.sidebar-menu a:hover{
+    border-left: 4px solid #286ea0;
+}
+
+.contents-middle{
+    color:#505050;
+    padding:0px 15px;
+    width:66%;
+    font-size: 1em;
+    text-align: justify;
+    line-height: 1em;
+}
+.contents-middle p{
+    padding:2px;
+    font-size: 1em;
+}
+.contents-middle img{
+    padding: 2px;
+    margin:0 10px 10px 0;
+    border:1px solid #ccc;
+}
+.contents-image{
+    float: left;
+}
+p.contents-image-text {
+    font-size: 1.1em;
+}
+
+.contents-middle h3{
+    font-size: 1.5em;
+    text-align: left;
+}
+.right-sidebar h3{
+    font-size: 1.2em;
+    color:#505050;
+    margin-bottom: 15px;
+}
+.right-sidebar p{
+    display: block;
+    margin: 24px 0;
+    font-size: 1em;
+    text-align: justify;
+    color: #505050;
+}
+
+.sidebar-link{
+    text-decoration: none;
+    display:block;
+    margin: 5px;
+    padding:0;
+}
+
+hr{
+    border:1px solid #ccc;
+    width:85%;
+}
+.footer-div{
+    width:85%;
+    margin:0 auto;
+    text-align: center;
+}
+.right-sidebar-latest-news{
+    color: #505050;
+    padding: 10px 10px;
+    border-left: 4px solid #cccccc;
+    text-align: justify;
+    background-color: #f4f4f4;
+    width: 80%;
+    margin: 10px;
+}
+.right-sidebar-latest-news h3{
+    color:#505050;
+    padding:0;
+    margin:0;
+    font-size: 1.2em;
+    margin: 3px 0;
+}
+
+.right-sidebar-latest-news h4{
+    font-size: 1em;
+    margin: 2px 0;
+}
+
+.right-sidebar-latest-news p{
+    font-size: 0.9em;
+}
