@@ -1,0 +1,163 @@
+body{
+    background: #00376b;
+    margin: 0;
+    padding:0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.wrap{
+    width:80%;
+    background-color: #ffffff;
+    margin: 40px auto;
+    background: url('images/contbg.png') top no-repeat;
+    background-size: contain;
+    height: 400px;
+}
+
+
+/*
+* site header
+*/
+
+.header{
+    display: inline-flex;
+    margin-top: 20px;
+    color:#222;
+}
+
+.site-title {
+    border: 4px solid #ddddee;
+    background-color: #eee;
+    height: 105px;
+    text-align: center;
+    padding-top: 20px;
+    color:#555555;
+    font-size: 1.2em;
+    width: 20%;
+}
+
+.site-title h3 a{
+    text-decoration: none;
+    letter-spacing: -2px;
+    margin: 50px 5px 1px 5px;
+    font-size: 1.2em;
+    font-weight: 100;
+    color:#2266aa;
+}
+.site-title h3{
+    margin-top: 26px;
+    margin-bottom: 0px;
+}
+ .site-title p{
+    margin:5px;
+}
+.hero-contents{
+    width: 52%;
+}
+.hero-contents h2{
+    margin: 0px 15px;
+    font-size: 1.8em;
+}
+
+.hero-contents p{
+    margin: 10px 15px;
+    font-size: 1.2em;
+    text-align: justify;
+}
+
+/*
+*
+* 
+* 
+*/
+
+.main{
+    display: flex;
+    background: white;
+    height: 1000px;
+    padding: 15px;
+}
+
+.contents
+{
+    width: 74%;
+    text-align: justify;
+}
+
+.contents h3 {
+    line-height: 40px;
+    background: #eee url(images/gradient2.png) repeat-x;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #bbb;
+    border-right: 1px solid #bbb;
+    border-left: 1px solid #ddd;
+    padding: 0 5px;
+    color:#505050;
+}
+
+.contents h3{
+    padding:5px;
+}
+
+.contents p{
+    color:#505050;
+    padding:5px;
+}
+
+p.readmore{
+    margin: 0 auto;
+    text-align: center;
+    color:#555555;
+}
+
+p.readmore a{
+    text-decoration: none;
+    letter-spacing: -1px;
+    color: #26c;
+}
+
+
+.menu-item:hover{
+    background: #eee url(images/gradient2.png) repeat-x;
+    color:#222;
+}
+
+.menu-item{
+    line-height: 30px;
+    background: #eee url(images/gradient1.png) repeat-x;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #bbb;
+    border-right: 1px solid #bbb;
+    border-left: 1px solid #ddd;
+    padding: 0 5px;
+    color: #505050;
+    width: 100%;
+    display: block;
+    margin: 2px;
+    text-decoration: none;
+    color:#2266cc;
+}
+
+.sidebar{
+    width: 20%;
+    margin: 0 auto;
+    display: block;
+    color:#505050;
+}
+
+.menus{
+    display:block;
+}
+
+.sidebar-link{
+    text-decoration: none;
+    display: block;
+    width:80%;
+}
+
+.footer{
+    text-align: center;
+    background-color: white;
+    clear: both;
+    padding: 15px;
+}
