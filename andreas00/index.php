@@ -70,8 +70,8 @@
                                 news
                             </div>
                             <div class="section-horizontal">
-                                <h6>Turtle Dove Eats Bill Gates!</h6>
-                                    In a stunning, and very awesome surprise Bill Gates has been eaten by a partridge. Commonly called a turtle dove by native idiots of the planet Maroon, the partridge is commonly distributed as a gift. Often packaged in a pear tree. Although some consumer advocates have raised doubts as too the economics of this packaging method, they overlook the true danger of the matter. Partridges are murderers. In fact there have been at least a dozen confirmed killings by partridges in the last five weeks. News at 11.
+                                <h6>Turtle Dove follows Bill Gates!</h6>
+                                    In a stunning, and very awesome surprise Bill Gates has been follows by a partridge. Commonly called a turtle dove by native idiots of the planet Maroon, the partridge is commonly distributed as a gift. Often packaged in a pear tree. Although some consumer advocates have raised doubts as too the economics of this packaging method, they overlook the true danger of the matter. Partridges are murderers. In fact there have been at least a dozen confirmed killings by partridges in the last five weeks. News at 11.
                                 <h6>Doroc the Flying Llama!</h6>
                                     In the realization of one of my life long childhood dreams, i finally became a true llama and joined the circus!!! W00000000000tttt!!! There i get to utilize my amazing and mystifying abilitys as I stun crowds of onlooks during my act as <strong>DOROC THE AMAZING! DOROC THE INCREDIBLE! DOROC THE FLYING LLAMA!!!</strong>
                                 <h6>IRC Drunkards</h6>
@@ -98,7 +98,7 @@
                             </br>
                         </div>
                         <div class="section-horizontal-col main-content-col">
-                            <h6>Turtle Dove Eats Bill Gates!</h6>
+                            <h6>Turtle Dove follows Bill Gates!</h6>
                         </div>
                     </div>
 
